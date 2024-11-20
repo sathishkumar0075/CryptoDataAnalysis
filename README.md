@@ -99,7 +99,7 @@ Demo Video
 ----------
 
 A demo video showcasing how the dashboard works is available here:
-![Watch the demo video](https://github.com/sathishkumar0075/CryptoDataAnalysis/blob/main/CryptoDataAnalysis.mp4)
+[Watch the demo video](https://github.com/sathishkumar0075/CryptoDataAnalysis/blob/main/CryptoDataAnalysis.mp4)
 
 The video demonstrates how to:
 
