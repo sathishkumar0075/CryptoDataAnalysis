@@ -38,8 +38,9 @@ To run this project, you need to have the following Python libraries installed:
     
 
 You can install the required libraries using the following command:
-
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   bashCopy codepip install requests pandas streamlit openpyxl   `
+ ```bash
+ pip install requests pandas streamlit openpyxl   `
+```
 
 How to Run
 ----------
@@ -98,7 +99,7 @@ Demo Video
 ----------
 
 A demo video showcasing how the dashboard works is available here:
-![Watch the demo video](./CryptoDataAnalysis.mp4)
+![Watch the demo video](https://github.com/sathishkumar0075/CryptoDataAnalysis/blob/main/CryptoDataAnalysis.mp4)
 
 The video demonstrates how to:
 
