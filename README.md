@@ -98,7 +98,10 @@ Demo Video
 ----------
 
 A demo video showcasing how the dashboard works is available here:
-<video src='./CryptoDataAnalysis.mp4' width=180/>
+<video width="640" height="360" controls>
+  <source src="CryptoDataAnalysis.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 The video demonstrates how to:
 
