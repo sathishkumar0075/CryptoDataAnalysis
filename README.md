@@ -97,7 +97,8 @@ Customization
 Demo Video
 ----------
 
-A demo video showcasing how the dashboard works is available here:\CrytoDataAnalysis.mp4
+A demo video showcasing how the dashboard works is available here:
+<video src='./CryptoDataAnalysis.mp4' width=180/>
 
 The video demonstrates how to:
 
